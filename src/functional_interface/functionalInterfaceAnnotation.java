@@ -1,4 +1,4 @@
-package interfaces.functional_interface;
+package functional_interface;
 
 public class functionalInterfaceAnnotation {
 
